@@ -10,6 +10,6 @@
 |                        |      2. git rm 文件名       |                 本地目录下删除文件夹                  |
 |                        | 3. git commit -m "for test" |             将远程仓库的相应文件也删除掉              |
 |                        |        4.  git  push        |                   将更改push到远程                    |
-|                        |                             |                                                       |
+|     推送到远程分支     |  git push -f origin master  |                                                       |
 
 ![image-20200522103201968](C:\Users\15658\AppData\Roaming\Typora\typora-user-images\image-20200522103201968.png)
